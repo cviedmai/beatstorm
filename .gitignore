@@ -1,0 +1,6 @@
+*.rdb
+*.sublime*
+node_modules
+*.pid
+*.pyc
+*.json
